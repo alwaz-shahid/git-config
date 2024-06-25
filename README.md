@@ -6,6 +6,7 @@
         <li>Ensure you have Python and Git installed on your system.</li>
         <li>Clone or download the repository.</li>
         <li>Navigate to the repository directory.</li>
+        <li>pip install -r requirements. txt</li>
         <li>Run the script using Python:</li>
         <code>python main.py</code>
     </ol>
@@ -14,7 +15,6 @@
     <p>Run the script with the following commmand:</p>
     <ul>
         <li><code>python main.py</code>: Set the Git global user configurations.</li>
-
     </ul>
 
 

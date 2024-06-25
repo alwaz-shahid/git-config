@@ -6,7 +6,6 @@
         <li>Ensure you have Python and Git installed on your system.</li>
         <li>Clone or download the repository.</li>
         <li>Navigate to the repository directory.</li>
-        <li>pip install -r requirements. txt</li>
         <li>Run the script using Python:</li>
         <code>python main.py</code>
     </ol>
@@ -46,6 +45,8 @@
 
  <p>After activation, you will see <code>(venv)</code> at the beginning of your terminal or command prompt, indicating that the virtual environment is active.</p>
 
+ <h3>Install packages from requirements.txt</h3>
+    <pre><code> pip install -r requirements.txt</code></pre>
   <h2>Install Packages</h2>
     <p>With the virtual environment activated, you can now install packages using <code>pip</code>:</p>
 

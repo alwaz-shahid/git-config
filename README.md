@@ -11,19 +11,12 @@
     </ol>
 
    <h2>Usage</h2>
-    <p>Run the script with one of the following options:</p>
+    <p>Run the script with the following commmand:</p>
     <ul>
-        <li><code>--set</code>: Set the Git global user configuration.</li>
-        <li><code>--view</code>: View the current Git global user configuration.</li>
-        <li><code>--help</code>: Show help and usage information.</li>
+        <li><code>python main.py</code>: Set the Git global user configurations.</li>
+
     </ul>
 
-   <h2>Examples</h2>
-    <p>To set the Git global user:</p>
-    <pre><code>python main.py --set username email</code></pre>
-
-   <p>To view the Git global user configuration:</p>
-    <pre><code>python main.py --view</code></pre>
 
   <h2>Contributing</h2>
     <p>Contributions are welcome! Feel free to open issues or submit pull requests.</p>
